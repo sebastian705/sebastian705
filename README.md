@@ -5,7 +5,7 @@ Desarrollador de software con pasión por el código abierto y el aprendizaje co
 ## 🚀 Proyectos Destacados
 
 - [Carrito de compras](https://github.com/sebastian705/carrito-compras.git): Descripción breve del proyecto A.
-- [Sistema de colegio](https://github.com/sebastian705/sitema-colegio.git): Descripción breve del proyecto B.
+- [Paises app](https://github.com/sebastian705/paises-app.git): Descripción breve del proyecto B.
 
 ## 🛠️ Habilidades
 
