@@ -9,7 +9,7 @@ Desarrollador de software con pasión por el código abierto y el aprendizaje co
 
 ## 🛠️ Habilidades
 
-- **Lenguajes**: JavaScript
+- **Lenguajes**: JavaScript, Php
 - **Frameworks**: React, Laravel
 - **Herramientas**: Git, VS Code
 
