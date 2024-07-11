@@ -11,6 +11,7 @@ Desarrollador de software con pasión por el código abierto y el aprendizaje co
 
 - **Lenguajes**: JavaScript, Php
 - **Frameworks**: React, Laravel
+- **Base de Datos**: MySQL
 - **Herramientas**: Git, VS Code
 
 ## 🌐 Conéctate conmigo
