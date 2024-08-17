@@ -16,7 +16,7 @@ Desarrollador de software con pasión por el código abierto y el aprendizaje co
 
 ## 🌐 Conéctate conmigo
 
-- [LinkedIn](https://linkedin.com/in/sebastian-valer-362a61248)
+- [LinkedIn](https://linkedin.com/in/giancarlo-valer)
 - [Portafolio](https://sebastian705.github.io)
 
 
